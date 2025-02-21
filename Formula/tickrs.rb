@@ -1,9 +1,9 @@
 class Tickrs < Formula
   desc "Realtime ticker data in your terminal 📈"
   homepage "https://github.com/tarkah/tickrs"
-  url "https://github.com/tarkah/tickrs/releases/download/v0.14.10/tickrs-v0.14.10-x86_64-apple-darwin.tar.gz"
-  sha256 "0f1040da7fb0159a99daa3c04fb6604541a57f685718b1cac03591406fba179d"
-  version "0.14.10"
+  url "https://github.com/tarkah/tickrs/releases/download/v0.14.11/tickrs-v0.14.11-x86_64-apple-darwin.tar.gz"
+  sha256 "941c350acc8a123a36659036c699f1b116728216271e0b56bfcd4616dd6d50be"
+  version "0.14.11"
 
   def install
     bin.install "tickrs"
